@@ -5,3 +5,4 @@ for i in shopping_list:
     print("Idę do", i.capitalize(), ", kupuję tu następujące rzeczy: ", new_list)
     products_sum += len(shopping_list.get(i))
 print("W sumie kupuję", products_sum, 'produktów')
+print("'Hiszpańska inkwizycja' to najlepszy skecz grupy Monty Pythona") 
